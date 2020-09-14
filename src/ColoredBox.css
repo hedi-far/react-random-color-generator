@@ -1,0 +1,10 @@
+. {
+  text-align: center;
+}
+
+#box {
+  text-align: center;
+  box-sizing: border-box;
+  border-style: dotted;
+  height: 200px;
+}
