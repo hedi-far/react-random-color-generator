@@ -4,6 +4,6 @@ This React app changes the background color of a box on the click of a button. A
 
 ![Screenshot](/screenshot.jpg)
 
-##The following library was used:
+## The following library was used:
 
 [npm random color](https://www.npmjs.com/package/randomcolor)
