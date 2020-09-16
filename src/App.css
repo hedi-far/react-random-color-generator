@@ -2,7 +2,25 @@ div {
   text-align: center;
 }
 
+#box {
+  box-sizing: border-box;
+  border-style: solid;
+  height: 300px;
+  margin: 50px;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  border-style: none;
+  margin: 100px;
+  padding: 50px;
+}
+
 button {
-  position: fixed;
-  top: 75%;
+  font-size: 16px;
+  position: center;
+  margin-top: 50px;
 }

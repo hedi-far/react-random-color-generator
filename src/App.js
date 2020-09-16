@@ -14,17 +14,8 @@ function App() {
   return (
     <div>
       <h1>React Random Color Generator</h1>
-      <div
-        id="box"
-        style={{
-          textSlign: 'center',
-          boxSizing: 'border-box',
-          borderStyle: 'dotted',
-          height: '200px',
-          backgroundColor: backgroundColor,
-        }}
-      >
-        <h1>{backgroundColor}</h1>
+      <div id="box" style={{ backgroundColor: backgroundColor }}>
+        <p>{backgroundColor}</p>
       </div>
       <button onClick={handleChangeColor}>Change color!</button>
     </div>
