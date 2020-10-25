@@ -4,6 +4,13 @@ This React app changes the background color of a box on the click of a button. A
 
 ![Screenshot](/screenshot.jpg)
 
+## To Dos:
+
+- [ ] Use `import` instead of `require` to import `randomcolor`
+- [ ] Only declare `randomizedColor` in the scope where it is needed
+- [ ] Use the object shorthand syntax (eg. instead of `{ name: name }`, in newer versions of JavaScript you can write `{ name }` and it will be the same!)
+- [ ] Style the box using a class instead of an id
+
 ## The following library was used:
 
 [npm random color](https://www.npmjs.com/package/randomcolor)
