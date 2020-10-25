@@ -7,3 +7,7 @@ This React app changes the background color of a box on the click of a button. A
 ## The following library was used:
 
 [npm random color](https://www.npmjs.com/package/randomcolor)
+
+## CodeSandbox
+
+[Find the project on CodeSandbox](https://codesandbox.io/s/react-random-color-generator-mrxdb)
